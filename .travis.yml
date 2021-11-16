@@ -11,5 +11,3 @@ jobs:
       script: echo $SEC_ENV
       
       
- 
- 
